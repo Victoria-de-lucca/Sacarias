@@ -1,0 +1,13 @@
+/* CSS - style.css */
+* {
+    font-family: sans-serif;
+}
+body{
+    text-align: center;
+    background-color: Beige;
+}
+
+h1, h2, h3 {
+    text-shadow: 1px 1px black;
+    
+}
